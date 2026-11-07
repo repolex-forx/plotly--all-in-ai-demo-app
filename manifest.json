@@ -1,0 +1,35 @@
+{
+  "manifest_version": "1.0",
+  "org": "plotly",
+  "repo": "all-in-ai-demo-app",
+  "versions": [
+    {
+      "commit": "95bd667a65e30c56f40f92cf94b7ba88c6d37263",
+      "parsed_at": "2026-11-07T07:59:40.510823+00:00",
+      "filetree": "filetree/95bd667a65e30c56f40f92cf94b7ba88c6d37263.nq.gz",
+      "blobs": [
+        "blob/31fe8678127967079bf1204ce4303f552b4ae9d5.nq.gz",
+        "blob/63f9d59c992058b529111aaaa346cee036ff66d5.nq.gz",
+        "blob/28021db49f2d3d191cc525287eefcdc36de0e1be.nq.gz",
+        "blob/04c726af2307bd136fdd49645648e9e1858f9f4b.nq.gz",
+        "blob/70677956e16e12b1b95fa7b89fe327950a7dcebc.nq.gz",
+        "blob/5767a7862bb189839f4dde6677a36f70f80363a9.nq.gz",
+        "blob/3a6053bb8d13c632328843022be7e8b3745f8142.nq.gz",
+        "blob/bc8371522911dae5c57fa15028a9c84eeb316709.nq.gz",
+        "blob/35ac70953c93e3ff9ecb54eaec573bc6cf90adf6.nq.gz",
+        "blob/d3cd9a5e83e2352164a713957680a82b85f235a2.nq.gz",
+        "blob/31253b4e5268104efe0c8bf80d8fdef7fb56a329.nq.gz",
+        "blob/f943215243f9754a22ae2c800d06ad40a0b5e783.nq.gz",
+        "blob/0760ad8789d0190758668245dc61f1435470605e.nq.gz",
+        "blob/f9378266cc79bff26da7cb08fcb3b182c4207b90.nq.gz",
+        "blob/48eed8cc6195f731dfc735bc313723efedcb428c.nq.gz",
+        "blob/3d8a849ed5c61a8b755660c3978d95a53c437bd0.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
