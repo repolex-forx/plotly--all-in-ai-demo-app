@@ -1,0 +1,11 @@
+{
+  "org": "plotly",
+  "repo": "all-in-ai-demo-app",
+  "versions": [
+    {
+      "commit": "95bd667a65e30c56f40f92cf94b7ba88c6d37263",
+      "tag": "",
+      "parsed_at": "2026-11-07T08:01:55.656113+00:00"
+    }
+  ]
+}
