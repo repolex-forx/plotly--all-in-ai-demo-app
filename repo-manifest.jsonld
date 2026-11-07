@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/plotly/all-in-ai-demo-app/commit/95bd667a65e30c56f40f92cf94b7ba88c6d37263",
       "git:hexsha": "95bd667a65e30c56f40f92cf94b7ba88c6d37263",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
